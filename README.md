@@ -1,2 +1,2 @@
-# CLASE22INICIO
-Archivos para empezar a trabajar con BouncinBalls
+# p5.play-boilerplate
+Boiler plate for p5.play
